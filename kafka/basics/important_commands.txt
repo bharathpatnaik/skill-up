@@ -1,0 +1,9 @@
+Install
+
+brew install kafka
+Info: Properties files located @ /usr/local/etc/kafka
+
+
+1. Start zookeper server
+zookeeper-server-start zookeeper.properties
+
